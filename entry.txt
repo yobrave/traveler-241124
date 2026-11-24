@@ -1,0 +1,1 @@
+It is a library that copies whatever any reader scribbles onto every doorstep on Earth the same instant — and every doorstep scribbles back.
